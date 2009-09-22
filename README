@@ -4,3 +4,7 @@ This is my collection of python scripts, which I will use to access evernote not
 
 Nothing is ready yet.
 
+export PYTHONPATH=./lib:$PYTHONPATH
+
+
+
